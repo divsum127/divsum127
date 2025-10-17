@@ -75,10 +75,15 @@ Agentic RAG systems  • LLM optimization & memory architectures  • Scalable M
 
 <div align="center">
   
-[![UniTrain](https://github-readme-stats.vercel.app/api/pin/?username=enigmax86&repo=UniTrain&theme=dark&show_owner=false)](https://github.com/enigmax86/UniTrain)
+
+[![FinSight](https://github-readme-stats.vercel.app/api/pin?username=enigmax86&repo=FinSight&theme=dark)](https://github.com/enigmax86/FinSight)
+[![UniTrain](https://github-readme-stats.vercel.app/api/pin/?username=enigmax86&repo=UniTrain&theme=dark&show_owner=false&description_lines_count=2)](https://github.com/enigmax86/UniTrain)
+
+<!--
 [![WebCrawler](https://github-readme-stats.vercel.app/api/pin/?username=enigmax86&repo=WebCrawler&theme=dark)](https://github.com/enigmax86/WebCrawler)
 [![Brainy Bites](https://github-readme-stats.vercel.app/api/pin/?username=enigmax86&repo=brainy-bites-full-stack&theme=dark)](https://github.com/enigmax86/brainy-bites-full-stack)
 [![Sign Language Recogniser](https://github-readme-stats.vercel.app/api/pin/?username=enigmax86&repo=SignLanguageRecogniser&theme=dark)](https://github.com/enigmax86/SignLanguageRecogniser)
+-->
 
 </div>
 
