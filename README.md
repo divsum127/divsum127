@@ -11,16 +11,17 @@ Agentic RAG systems  • LLM optimization & memory architectures  • Scalable M
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-indivyanshusuman-0A66C2?style=flat&logo=linkedin)](https://linkedin.com/in/divyanshusuman)
 [![Email](https://img.shields.io/badge/Email-divyanshusuman45@gmail.com-D14836?style=flat&logo=gmail)](mailto:divyanshusuman45@gmail.com)
 
-<!--
+
 ## Technical Skills
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=python,c,cpp,java,bash,html,css,bootstrap,js,react,fastapi,flask,django,pytorch,git,githubactions,gitlab,linux,aws,dynamodb,azure,mysql,latex,anaconda,grafana,mongodb,mysql,nginx,postman,redis,sklearn,wasm,tensorflow,selenium,sqlite,opencv " />
+    <img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow,sklearn,opencv,cpp,c,java,bash,react,html,css,bootstrap,js,fastapi,flask,django,aws,azure,docker,git,github,githubactions,gitlab,linux,mysql,mongodb,dynamodb,redis,sqlite,nginx,postman,selenium,anaconda,grafana,wasm" />
   </a>
 </p>
--->
 
+
+<!--
 ## 🛠️ Tech Stack
 
 <table>
@@ -40,6 +41,7 @@ Agentic RAG systems  • LLM optimization & memory architectures  • Scalable M
   </td>
 </tr>
 </table>
+-->
 
 <!-- Top languages -----------------------------------------------------> 
 <!-- <p align="center">
