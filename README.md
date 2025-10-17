@@ -7,7 +7,7 @@ Hey there 👋 , I'm Divyanshu a machine learning and development enthusiast spe
 
 Agentic RAG systems  • LLM optimization & memory architectures  • Scalable ML infrastructure
 
-[![GitHub](https://img.shields.io/badge/GitHub-enigmax86-181717?style=flat&logo=github)](https://github.com/enigmax86)
+[![GitHub](https://img.shields.io/badge/GitHub-divsum127-181717?style=flat&logo=github)](https://github.com/enigmax86)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-indivyanshusuman-0A66C2?style=flat&logo=linkedin)](https://linkedin.com/in/divyanshusuman)
 [![Email](https://img.shields.io/badge/Email-divyanshusuman45@gmail.com-D14836?style=flat&logo=gmail)](mailto:divyanshusuman45@gmail.com)
 
