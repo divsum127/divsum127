@@ -35,7 +35,7 @@ Agentic RAG systems  • LLM optimization & memory architectures  • Scalable M
   <td width="300" , align="center"><strong>Development, Cloud/DevOps & Tools</strong></td>
   <td>
     <a href="https://skillicons.dev">
-      <img src="https://skillicons.dev/icons?i=react,fastapi,flask,django,html,css,js,aws,azure,docker,git,github,linux,mysql,mongodb,redis,selenium,postman,latex&perline=10" />
+      <img src="https://skillicons.dev/icons?i=react,fastapi,flask,django,html,css,js,aws,azure,docker,git,github,linux,mysql,mongodb,redis,selenium,postman&perline=10" />
     </a>
   </td>
 </tr>
